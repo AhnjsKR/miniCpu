@@ -5,8 +5,14 @@
 ---
 **SimpleCPU
 clk, reset, instruction을 input으로 acc를 output으로 설정.
+
+
 간단한 FETCH-DECODE-EXECUTE 사이클 동작.
+
+
 ---
 
 **TB
+
+
 ADD와 SUB 명령어 test
