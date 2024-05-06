@@ -3,7 +3,7 @@
 2. fullAdder_8bit : fullAdder조합으로 구성
 3. ALU.v : ADD 와 SUB, AND, OR 연산 지원
 ---
-**SimpleCPU
+**SimpleCPU**
 clk, reset, instruction을 input으로 acc를 output으로 설정.
 
 
@@ -12,7 +12,7 @@ clk, reset, instruction을 input으로 acc를 output으로 설정.
 
 ---
 
-**TB
+**TB**
 
 
 ADD와 SUB 명령어 test
